@@ -1,5 +1,5 @@
 ---
-title: "Moduel 3 HTML Document"
+title: "Module 3 HTML Document"
 author: "Marco Mello"
 date: "11/25/2020"
 output: 
